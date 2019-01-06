@@ -1,10 +1,13 @@
 name: example-openpiv
 channels:
-  - conda-forge
+  - alexlib
 dependencies:
   - python
   - numpy
+  - scipy
   - matplotlib
   - scikit-image
+  - progressbar2
+  - jupyter
   - ipywidgets
   - openpiv
