@@ -7,7 +7,6 @@ dependencies:
   - scipy
   - matplotlib
   - scikit-image
-  - progressbar2
   - jupyter
   - ipywidgets
   - openpiv
